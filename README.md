@@ -1,6 +1,10 @@
-# Valentine's Day Interactive Website (CodeKage)
+# Valentine's Day Interactive Website
 
 A cute, interactive web page to ask someone to be your Valentine. Features playful button mechanics, heartwarming GIFs, and heart-shaped confetti.
+
+## 🎉 Live Demo
+
+Check it out here: **[https://will-you-be-my-val-tan.vercel.app/](https://will-you-be-my-val-tan.vercel.app/)**
 
 ## How It Works
 
@@ -20,7 +24,7 @@ A cute, interactive web page to ask someone to be your Valentine. Features playf
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/CodeKageHQ/Ask-out-your-Valentine.git
+   git clone https://github.com/FREDPENTA5/will-you-be-my-Val.git
    ```
 2. Open `index.html` in your browser.
 
@@ -29,7 +33,7 @@ That's it -- no build step, no dependencies to install. Tailwind CSS and canvas-
 ## Project Structure
 
 ```
-Ask-out-your-Valentine/
+will-you-be-my-Val/
 ├── images/
 │   ├── image1.gif    # Default greeting
 │   ├── image2.gif    # After 1st "No"
